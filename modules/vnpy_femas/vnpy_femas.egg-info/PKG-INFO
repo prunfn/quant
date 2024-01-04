@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: vnpy-femas
+Version: 1.0.2
+Summary: FEMAS gateway for VeighNa quant trading framework.
+Home-page: https://www.vnpy.com
+Author: Xiaoyou Chen
+Author-email: xiaoyou.chen@mail.vnpy.com
+License: MIT
+Keywords: quant,quantitative,investment,trading,algotrading,femas
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Chinese (Simplified)
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

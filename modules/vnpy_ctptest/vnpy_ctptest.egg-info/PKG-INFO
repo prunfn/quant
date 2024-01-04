@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: vnpy-ctptest
+Version: 6.6.9.0
+Summary: CTP (test environment) gateway for VeighNa quant trading framework.
+Home-page: https://www.vnpy.com
+Author: Xiaoyou Chen
+Author-email: xiaoyou.chen@mail.vnpy.com
+License: MIT
+Keywords: quant,quantitative,investment,trading,algotrading,ctp
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Chinese (Simplified)
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: importlib_metadata
